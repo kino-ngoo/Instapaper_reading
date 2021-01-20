@@ -1,8 +1,8 @@
 # Instapaper_reading
 
-** In Progress **
+**In Progress**
 - [ ] Figure out the loggable reading flow.
-- [ ] 
+- [ ] TBD
 
 ## FIRE
 
