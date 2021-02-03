@@ -10,6 +10,10 @@
 
 ## Nomad
 
+**To-read Blog**
+
+- [ ] [Articles | Scott H Young](https://www.scotthyoung.com/blog/articles/)
+
 ## Shortcuts
 
 ## Twitter backup
